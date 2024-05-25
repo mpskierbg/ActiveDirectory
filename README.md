@@ -1,7 +1,11 @@
 # Setting up Home Lab to Run Active Directory
 ## Introduction
 ## Download Virtualbox
+- [Download Virtualbox](https://www.virtualbox.org/wiki/Downloads)
+  -   Make sure you also down load the Guest Expansion Pack
 ## Download Windows 10 and Windows Server
+- [Download Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10)
+- [Download Windows Server 2019 ISO](https://www.microsoft.com/en-us/software-download/windows10)
 ## Creating our Virtual Machines
 ## Set Up IP Addressing
 ## Rename the PC
