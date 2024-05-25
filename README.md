@@ -1,6 +1,13 @@
 # Setting up Home Lab to Run Active Directory
 ![Image of Home Lab we are creating](https://i.imgur.com/6B4ogTE.jpeg)
 ## Introduction
+Welcome! This comprehensive guide is designed to walk you through the process of creating a virtual lab environment using Windows Server, Active Directory Domain Services (AD DS), and a Windows 10 client. Whether you're an IT professional honing your skills or a student learning about network management, this project provides you with a detailed roadmap to configure a fully functional networked environment.
+
+Our journey begins with the critical task of configuring network settings, where you will learn how to differentiate between internal and external connections and assign appropriate IP addresses. We then move on to the essential step of renaming the PC and configuring the internal network adapter, setting the stage for the installation of AD DS. By establishing a new domain, such as mydomain.com, you will gain hands-on experience in creating and managing a centralized directory service.
+
+Further, you'll set up a DHCP server to automatically assign IP addresses to client machines and configure the Routing and Remote Access Service (RRAS) for Network Address Translation (NAT), allowing internal clients to access the internet seamlessly.
+
+To streamline the user creation process, I've included a PowerShell script that automates the generation of multiple user accounts.
 ## Download Virtualbox
 - [Download Virtualbox](https://www.virtualbox.org/wiki/Downloads)
   -   Make sure you also down load the Guest Expansion Pack
