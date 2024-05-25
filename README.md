@@ -1,4 +1,5 @@
 # Setting up Home Lab to Run Active Directory
+![Image of Home Lab we are creating](https://i.imgur.com/6B4ogTE.jpeg)
 ## Introduction
 ## Download Virtualbox
 - [Download Virtualbox](https://www.virtualbox.org/wiki/Downloads)
