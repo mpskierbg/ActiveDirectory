@@ -7,6 +7,8 @@
 - [Download Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10)
 - [Download Windows Server 2019 ISO](https://www.microsoft.com/en-us/software-download/windows10)
 ## Creating our Virtual Machines
+### Creating Domain Controller VM
+- [Scribe steps to create DC VM](https://scribehow.com/shared/Set_Up_Oracle_VM_VirtualBox_with_Windows_64-bit__onlI_SVqS3S19gA0_8Co7w)
 ## Set Up IP Addressing
 ## Rename the PC
 ## Install Active Directory Domain Services 
