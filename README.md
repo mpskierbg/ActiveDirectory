@@ -10,6 +10,7 @@
 ### Creating Domain Controller VM
 - [Scribe steps to create DC VM](https://scribehow.com/shared/Set_Up_Oracle_VM_VirtualBox_with_Windows_64-bit__onlI_SVqS3S19gA0_8Co7w)
 ## Set Up IP Addressing
+- [Scribe Steps to Set up IP addressing in the Domain Controler](https://scribehow.com/shared/Click_Multiple_Items_in_a_Sequence_Copy__XjaFCM6-QlySrtOtIYzq-Q)
 ## Rename the PC
 ## Install Active Directory Domain Services 
 ## Create a Dedicated Domain Admin Account
