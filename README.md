@@ -14,8 +14,7 @@ To streamline the user creation process, I've included a PowerShell script that 
 ## Download Windows 10 and Windows Server
 - [Download Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10)
 - [Download Windows Server 2019 ISO](https://www.microsoft.com/en-us/software-download/windows10)
-## Creating our Virtual Machines
-### Creating Domain Controller VM
+## Creat the Domain Controller VM
 - [Scribe steps to create DC VM](https://scribehow.com/shared/Set_Up_Oracle_VM_VirtualBox_with_Windows_64-bit__onlI_SVqS3S19gA0_8Co7w)
 ## Set Up IP Addressing
 - [Scribe Steps to Set up IP addressing in the Domain Controler](https://scribehow.com/shared/IP_Addressing__ae6PO3kATcqn08EPvLDepA)</br>
@@ -41,8 +40,8 @@ This step shows how to set up routing from the DC to teh CLIENT1 VM. ALso, there
 - [The AD Powershell script](https://github.com/mpskierbg/AD_PS/archive/master.zip)</br>
 ## Create a New VM Called CLIENT1
 - [Scribe Steps to Create CLIENT1](https://scribehow.com/shared/Creating_CLIENT1_VM__Vk7y9KU-QkqbdakZ9CyaNw)</br>
-## User Config
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
+## Check for Connectivity.
+- [Scribe Steps to Check that CLIENT1 is connected to the internet](https://scribehow.com/shared/Check_for_Connectivity__rpVI0zSMTq2sQm0W3UTE-g)</br>
 ## Add the Domain Controller
 - [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
 ## Address Leases
