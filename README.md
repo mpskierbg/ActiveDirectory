@@ -31,7 +31,7 @@ This step identifies which network adapter is internal and which one is to the I
 ## Create a New User
 - [Scribe Steps to Create a New User](https://scribehow.com/shared/Create_a_New_User__TG9A72tyTh2wZ7TANmF7uA)</br>
 ## Routing and Remote Access and installing NAT
-- [Routing and Remote Access and installing NAT](https://scribehow.com/shared/Routing_and_installing_NAT__CDw6SGi1Q--78iUwSUaPFw)</br>
+- [Scribe Steps Routing and Remote Access and installing NAT](https://scribehow.com/shared/Routing_and_installing_NAT__CDw6SGi1Q--78iUwSUaPFw)</br>
 This step shows how to set up routing from the DC to teh CLIENT1 VM. ALso, there seems to be an error when you try to install NAT. So you may have to back out to the Server Manager at somepoint, which is why I added those steps in the link.
 
 ## Set up a DHCP Server on the Domain Controller
