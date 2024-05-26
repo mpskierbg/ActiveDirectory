@@ -38,15 +38,7 @@ This step identifies which network adapter is internal and which one is to the I
 This step shows how to set up routing from the DC to teh CLIENT1 VM. ALso, there seems to be an error when you try to install NAT. So you may have to back out to the Server Manager at somepoint, which is why I added those steps in the link.
 
 ## Set up a DHCP Server on the Domain Controller
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
-## DHCP
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
-## Lease Duration
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
-## Configure DHCP Options
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
-## Add an IP Address for a Router
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
+- [Scribe Steps to Set up a DHCP Server on the Domain Controller](https://scribehow.com/shared/Set_Up_DHCP_on_Domain_Controller__VDLK0ocpTwqVpRSTKMJCGg)</br>
 ## PowerShell Script
 - [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
 ## Create a New VM
