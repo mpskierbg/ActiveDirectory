@@ -33,10 +33,10 @@ This step identifies which network adapter is internal and which one is to the I
 
 ## Make a Domain Admin
 - [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
-## Routing and Remote Access
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
-## Install Nat
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
+## Routing and Remote Access and installing NAT
+- [Routing and Remote Access and installing NAT](https://scribehow.com/shared/Routing_and_installing_NAT__CDw6SGi1Q--78iUwSUaPFw)</br>
+This step shows how to set up routing from the DC to teh CLIENT1 VM. ALso, there seems to be an error when you try to install NAT. So you may have to back out to the Server Manager at somepoint, which is why I added those steps in the link.
+
 ## Set up a DHCP Server on the Domain Controller
 - [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
 ## DHCP
