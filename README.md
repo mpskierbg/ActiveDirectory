@@ -43,7 +43,7 @@ This step shows how to set up routing from the DC to teh CLIENT1 VM. ALso, there
 ## Check for Connectivity.
 - [Scribe Steps to Check that CLIENT1 is connected to the internet](https://scribehow.com/shared/Check_for_Connectivity__rpVI0zSMTq2sQm0W3UTE-g)</br>
 ## Add the Domain Controller
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
+- [Scribe Steps to Add CLIENT1 to mydomain.com](https://scribehow.com/shared/Add_CLIENT1_to_mydomaincom__i7DxdO4OTPufv5b85euwCQ)</br>
 ## Address Leases
 - [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
 ## Active Directory Users and Computers
