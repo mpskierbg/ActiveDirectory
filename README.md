@@ -39,8 +39,8 @@ This step shows how to set up routing from the DC to teh CLIENT1 VM. ALso, there
 ## PowerShell Script
 - [Scribe Steps to Get the Powershell Script and Use it](https://scribehow.com/shared/Powershell_Script__D98BMpLWSPuND6FKkyVXjA)</br>
 - [The AD Powershell script](https://github.com/mpskierbg/AD_PS/archive/master.zip)</br>
-## Create a New VM
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
+## Create a New VM Called CLIENT1
+- [Scribe Steps to Create CLIENT1](https://scribehow.com/shared/Creating_CLIENT1_VM__Vk7y9KU-QkqbdakZ9CyaNw)</br>
 ## User Config
 - [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
 ## Add the Domain Controller
