@@ -30,9 +30,6 @@ This step identifies which network adapter is internal and which one is to the I
 - [Scribe Steps to Create Dedicated Domain Admin Account](https://scribehow.com/shared/Created_Dedicated_Domain_Admin_Account__0mcNvFaZRsCrkct__7hZ7A)</br>
 ## Create a New User
 - [Scribe Steps to Create a New User](https://scribehow.com/shared/Create_a_New_User__TG9A72tyTh2wZ7TANmF7uA)</br>
-
-## Make a Domain Admin
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
 ## Routing and Remote Access and installing NAT
 - [Routing and Remote Access and installing NAT](https://scribehow.com/shared/Routing_and_installing_NAT__CDw6SGi1Q--78iUwSUaPFw)</br>
 This step shows how to set up routing from the DC to teh CLIENT1 VM. ALso, there seems to be an error when you try to install NAT. So you may have to back out to the Server Manager at somepoint, which is why I added those steps in the link.
