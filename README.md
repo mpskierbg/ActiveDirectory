@@ -21,10 +21,8 @@ To streamline the user creation process, I've included a PowerShell script that 
 This step identifies which network adapter is internal and which one is to the Internet on the Domain Controller. Further, this sets up DHCP on the Domain Controller. 
 ## Rename the PC
 - [Scribe Steps to Rename the Server PC](https://scribehow.com/shared/Rename_the_PC__ajy7-MPNT2erFbgOqeNqOg)</br>
-
 ## Install Active Directory Domain Services 
 - [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
-
 ## Create a Dedicated Domain Admin Account
 - [Scribe Steps to Create Dedicated Domain Admin Account](https://scribehow.com/shared/Created_Dedicated_Domain_Admin_Account__0mcNvFaZRsCrkct__7hZ7A)</br>
 ## Create a New User
@@ -32,7 +30,6 @@ This step identifies which network adapter is internal and which one is to the I
 ## Routing and Remote Access and installing NAT
 - [Scribe Steps Routing and Remote Access and installing NAT](https://scribehow.com/shared/Routing_and_installing_NAT__CDw6SGi1Q--78iUwSUaPFw)</br>
 This step shows how to set up routing from the DC to teh CLIENT1 VM. ALso, there seems to be an error when you try to install NAT. So you may have to back out to the Server Manager at somepoint, which is why I added those steps in the link.
-
 ## Set up a DHCP Server on the Domain Controller
 - [Scribe Steps to Set up a DHCP Server on the Domain Controller](https://scribehow.com/shared/Set_Up_DHCP_on_Domain_Controller__VDLK0ocpTwqVpRSTKMJCGg)</br>
 ## PowerShell Script
@@ -45,6 +42,5 @@ This step shows how to set up routing from the DC to teh CLIENT1 VM. ALso, there
 ## Add the Domain Controller
 - [Scribe Steps to Add CLIENT1 to mydomain.com](https://scribehow.com/shared/Add_CLIENT1_to_mydomaincom__i7DxdO4OTPufv5b85euwCQ)</br>
 ## Address Leases
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
-## Active Directory Users and Computers
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
+- [Scribe Steps to Check for IP address lease on DC](https://scribehow.com/shared/Checking_DC_for_Address_Lease_and_Sign-in_on_CLIENT1__gxS0kDKGT8GrAJMuYR44cw)</br>
+
