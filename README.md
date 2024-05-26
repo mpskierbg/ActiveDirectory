@@ -28,10 +28,9 @@ This step identifies which network adapter is internal and which one is to the I
 
 ## Create a Dedicated Domain Admin Account
 - [Scribe Steps to Create Dedicated Domain Admin Account](https://scribehow.com/shared/Created_Dedicated_Domain_Admin_Account__0mcNvFaZRsCrkct__7hZ7A)</br>
-## Create an Organizational Unit
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
-## Create New User
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
+## Create a New User
+- [Scribe Steps to Create a New User](https://scribehow.com/shared/Create_a_New_User__TG9A72tyTh2wZ7TANmF7uA)</br>
+
 ## Make a Domain Admin
 - [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
 ## Routing and Remote Access
