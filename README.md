@@ -37,7 +37,9 @@ This step shows how to set up routing from the DC to teh CLIENT1 VM. ALso, there
 ## Set up a DHCP Server on the Domain Controller
 - [Scribe Steps to Set up a DHCP Server on the Domain Controller](https://scribehow.com/shared/Set_Up_DHCP_on_Domain_Controller__VDLK0ocpTwqVpRSTKMJCGg)</br>
 ## PowerShell Script
-- [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
+- [Scribe Steps to Get the Powershell Script and Use it](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
+
+use this [LINK](https://github.com/mpskierbg/AD_PS/archive.master.zip) to get the AD Powershell zip, then extract it on the DC VM.
 ## Create a New VM
 - [Scribe Steps to Install AD DS](https://scribehow.com/shared/Install_Active_Directory_Domain_Services__Nd42lC1tTkamlCkZswfHmQ)</br>
 ## User Config
