@@ -18,10 +18,11 @@ To streamline the user creation process, I've included a PowerShell script that 
 ### Creating Domain Controller VM
 - [Scribe steps to create DC VM](https://scribehow.com/shared/Set_Up_Oracle_VM_VirtualBox_with_Windows_64-bit__onlI_SVqS3S19gA0_8Co7w)
 ## Set Up IP Addressing
-- [Scribe Steps to Set up IP addressing in the Domain Controler](https://scribehow.com/shared/Click_Multiple_Items_in_a_Sequence_Copy__XjaFCM6-QlySrtOtIYzq-Q)
+- [Scribe Steps to Set up IP addressing in the Domain Controler](https://scribehow.com/shared/IP_Addressing__ae6PO3kATcqn08EPvLDepA)</br>
 This step identifies which network adapter is internal and which one is to the Internet on the Domain Controller. Further, this sets up DHCP on the Domain Controller. 
 ## Rename the PC
-- [Scribe Steps to Rename the Server PC](
+- [Scribe Steps to Rename the Server PC](https://scribehow.com/shared/Rename_the_PC__ajy7-MPNT2erFbgOqeNqOg)</br>
+
 ## Install Active Directory Domain Services 
 ## Create a Dedicated Domain Admin Account
 ## Create an Organizational Unit
